@@ -38,3 +38,7 @@
         <li>Importar a dash a partir do arquivo JSON deste repositório</li>
         <li>Utilizar o Grafana 🤓</li>
     </ol>
+</details>
+
+---
+<center>©️ FoodWay 2023.</center>
